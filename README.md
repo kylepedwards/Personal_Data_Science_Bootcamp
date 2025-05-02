@@ -14,7 +14,7 @@
     * [Statistics for AI Data Science and Business Analysis - 2025](https://www.udemy.com/course/statistics-probability-for-data-science)
     * [Mathematics - Basics to Advanced for Data Science And GenAI](https://www.udemy.com/course/mathematics-basics-to-advanced-for-data-science-and-ml)
 
-* **Extra**:
+* **Bonus Skills**:
     * [Complete Excel Bootcamp: Zero to Hero in Excel](https://www.udemy.com/course/complete-excel-bootcamp-zero-to-hero-in-excel)
     * [SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/course/sql-and-postgresql)
     * [Research Methodology: Complete Research Project Blueprint](https://www.udemy.com/course/research-methodology-complete-research-project-blueprint)
