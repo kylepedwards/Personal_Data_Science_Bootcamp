@@ -16,3 +16,14 @@ div {
     color: green;
     text-align: center;
 }
+
+img {
+    width: 50%;
+    height: auto;
+}
+
+@media (max-width: 640px) {
+    body {
+        color: grey;
+    }
+}
