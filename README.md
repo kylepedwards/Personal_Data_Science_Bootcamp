@@ -19,4 +19,3 @@
     * [SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/course/sql-and-postgresql)
     * [Research Methodology: Complete Research Project Blueprint](https://www.udemy.com/course/research-methodology-complete-research-project-blueprint)
     * [Data Management Masterclass - The Complete Course](https://www.udemy.com/course/data-management-masterclass-the-complete-course)
-    * [The Ultimate 2025 Fullstack Web Development Bootcamp](https://www.udemy.com/course/the-ultimate-fullstack-web-development-bootcamp)
