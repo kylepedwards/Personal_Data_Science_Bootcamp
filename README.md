@@ -3,6 +3,7 @@
 <ins>Notes, practice, and projects</ins>:
 
 * **Data Science**:
+    * [Complete Data Analyst Bootcamp From Basics To Advanced](https://www.udemy.com/course/complete-data-analyst-bootcamp-from-basics-to-advanced)
     * [Practical Data Science using Python](https://www.udemy.com/course/practical-data-science-using-python-md)
     * [From Zero to Pro Data Science & AI Advanced Full Course 2025](https://www.udemy.com/course/data-science-mastery-complete-data-science-bootcamp-2025)
     * [Complete Data Science, Machine Learning, DL, NLP Bootcamp](https://www.udemy.com/course/complete-machine-learning-nlp-bootcamp-mlops-deployment)
@@ -11,7 +12,8 @@
 * **Mathematics**: 
     * [Master Math by Coding in Python](https://www.udemy.com/course/math-with-python)
     * [Statistics for AI Data Science and Business Analysis - 2025](https://www.udemy.com/course/statistics-probability-for-data-science)
-    * [Mathematics - Basics to Advanced for Data Science And GenAI](https://www.udemy.com/course/mathematics-basics-to-advanced-for-data-science-and-ml)
+    * [Linear Algebra for AI - Generative AI](https://www.udemy.com/course/linear-algebra-for-data-science-machine-learning-ai)
+    * [Calculus - for Generative AI, Data Science & Machine Learning](https://www.udemy.com/course/deep-learning-calculus-data-science-machine-learning-ai)
 
 * **Bonus Skills**:
     * [Complete Excel Bootcamp: Zero to Hero in Excel](https://www.udemy.com/course/complete-excel-bootcamp-zero-to-hero-in-excel)
